@@ -35,3 +35,5 @@ There is only one contributer, and that is Lola Raji.
 
 * [Her GitHub](https://www.github.com/lolaraji/)
 * [Her Website](https://www.lolarajiweb.design)
+
+&copy; 2021 Lola Raji, All Rights Reserved.
