@@ -1,13 +1,17 @@
 ## About ##
-Simplr was devekloper in order to allow developers to write minimal code, as it can be quite tasky to write tens of hundreds of lines of code in order to achieve a singular problem. Simplr has many different functions (some made using primitives, others using specific libraries) with simple and easy to use wording. 
+Simplr was prototyped in order to allow developers to write minimal code, as spending too much on a specific field of a project can cause one to shy away from the topic at hand.
 
-Here are some original Simplr functions and packages needed in order to acheive them:
+Here are three original Simplr functions that developers might find useful:
+```python
+ wait(duration) # package: time
+```
+```python
+ lorem(times_repeated) # package: none
+```
 
-* wait(duration)
-  * import time
+```python
+folder(directory, foldername) # package: os
+```
 
+## How to Use ##
 
-* lorem(times_repeated)
-  * No package required!
-
-* 
