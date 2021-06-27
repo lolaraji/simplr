@@ -4,14 +4,14 @@ Simplr was prototyped in order to allow developers to write minimal code, as spe
 Here are three original Simplr functions that developers might find useful:
 
 ```python
- wait(duration) # package: time
+ simplr.wait(duration) # package: time
 ```
 ```python
- lorem(times_repeated) # package: none
+ simplr.lorem(times_repeated) # package: none
 ```
 
 ```python
-folder(directory, foldername) # package: os
+simplr.folder(directory, foldername) # package: os
 ```
 
 ## Use ##
