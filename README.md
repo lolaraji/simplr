@@ -8,6 +8,7 @@ Here are some original Simplr functions and packages needed in order to acheive 
 * wait(duration)
   * import time
 
+
 * lorem(times_repeated)
   * No package required!
 
