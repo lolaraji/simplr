@@ -9,6 +9,6 @@ Here are some original Simplr functions and packages needed in order to acheive 
   * import time
 
 * lorem(times_repeated)
- * No package required!
+  * No package required!
 
 * 
