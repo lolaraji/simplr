@@ -5,4 +5,5 @@ Simplr was devekloper in order to allow developers to write minimal code, as it 
 
 Here are some popular Simplr functions and packages needed in order to acheive them:
 
-* lola
+* wait(duration)
+  * import time
