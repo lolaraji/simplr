@@ -14,6 +14,14 @@ Here are three original Simplr functions that developers might find useful:
 simplr.folder(directory, foldername) # package: os
 ```
 
+```python
+simplr.file(directory, filename, file_extension, contents) # package: os
+```
+
+```python
+simplr.ran(minimum, maximum) # package: random
+```
+
 ## Use ##
 
 On the Simplr for Python YouTube channel, we have a series explaining how Simplr works, and why it is beneficial to use when programming. We also have articles posted on our website in order to get you started with Simplr.
